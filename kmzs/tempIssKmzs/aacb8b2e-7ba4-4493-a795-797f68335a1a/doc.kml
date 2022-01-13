@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://earth.google.com/kml/2.0"><Document><Style id="dotIcon"> 
+        <IconStyle>
+            <Icon>
+                <href>files/dotIcon.svg</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+     <Style id="satelliteIcon"> 
+        <IconStyle>
+            <Icon>
+                <href>files/satelliteIcon.svg</href>
+            </Icon>
+        </IconStyle>
+    </Style><Placemark>
+                    <styleUrl>#dotIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -48.351542302346, -154.24435617186, 694492.2957180745.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark><Placemark>
+                    <styleUrl>#dotIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -48.327947019501, -154.15853547917, 694472.7687258477.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark><Placemark>
+                    <styleUrl>#dotIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -48.280544446428, -153.98713918625, 694433.5830361942.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark><Placemark>
+                    <styleUrl>#dotIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -48.232862233997, -153.81607839173, 694394.2240455284.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark><Placemark>
+                    <styleUrl>#dotIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -48.184900406136, -153.64535042241, 694354.6915294108.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark><Placemark>
+                    <styleUrl>#dotIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -48.136659938814, -153.47495603406, 694314.9860529153.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark><Placemark>
+                    <styleUrl>#dotIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -48.088140830432, -153.30489254274, 694275.1073803371.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark><Placemark>
+                    <styleUrl>#dotIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -48.039346011425, -153.13516750234, 694235.0576874005.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark><Placemark>
+                    <styleUrl>#dotIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -47.990275488035, -152.96577817843, 694194.8367479923.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark><Placemark>
+                    <styleUrl>#dotIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -47.940930240759, -152.79672523933, 694154.4451395143.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark><Placemark>
+                    <styleUrl>#dotIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -47.89131025014, -152.6280059412, 694113.8826247808.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark><Placemark>
+                    <styleUrl>#dotIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -47.841418494879, -152.45962769741, 694073.1514192028.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark><Placemark>
+                    <styleUrl>#dotIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -47.791254962723, -152.29158771463, 694032.251295106.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark><Placemark>
+                    <styleUrl>#dotIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -47.740819620306, -152.12388320564, 693991.1820141462.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark><Placemark>
+                    <styleUrl>#dotIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -47.690115481398, -151.95652147957, 693949.9458212499.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark><Placemark>
+                    <styleUrl>#dotIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -47.639142519378, -151.78949970049, 693908.5424874552.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark><Placemark>
+                    <styleUrl>#dotIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -47.587901720032, -151.62281838879, 693866.9726113427.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark><Placemark>
+                    <styleUrl>#dotIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -47.5363930308, -151.45647470146, 693825.235953168.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark><Placemark>
+                    <styleUrl>#dotIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -47.48461951073, -151.29047581031, 693783.3347965785.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark><Placemark>
+                    <styleUrl>#dotIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -47.432581113408, -151.12481882478, 693741.2689110996.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark><Placemark>
+                    <styleUrl>#dotIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -47.380278826208, -150.95950418383, 693699.0389071245.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark><Placemark>
+                    <styleUrl>#satelliteIcon</styleUrl>
+                    <Point>
+                        <coordinates>
+                            -47.327712576665, -150.79452899118, 693656.6445434926.
+                        </coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+                        <extrude>1</extrude>
+                    </Point>
+                </Placemark></Document></kml>
