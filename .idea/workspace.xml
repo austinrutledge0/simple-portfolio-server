@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7aa2a6f1-c673-4fbc-9d76-2a4f27f4f0c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/kmlKmzAssets/SatelliteIcon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/kmlKmzAssets/TrackingDot.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/issKmz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
       <updated>1641361647313</updated>
       <workItem from="1641361648897" duration="2916000" />
       <workItem from="1641500738363" duration="16273000" />
-      <workItem from="1642055941906" duration="540000" />
+      <workItem from="1642055941906" duration="1262000" />
     </task>
     <servers />
   </component>
